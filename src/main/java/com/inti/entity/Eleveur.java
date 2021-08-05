@@ -1,4 +1,4 @@
-package com.inti.entitty;
+package com.inti.entity;
 
 import java.io.Serializable;
 import java.util.List;
